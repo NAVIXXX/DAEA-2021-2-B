@@ -6,7 +6,7 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Como te llamas : ");
+            Console.WriteLine("Como te llamasdddd : ");
             string nombre = Console.ReadLine();
             Console.WriteLine("Hola " + nombre);
         }
