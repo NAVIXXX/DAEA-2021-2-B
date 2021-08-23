@@ -8,7 +8,7 @@ namespace prjLab01_1
 {
     class Program
     {
-        //Función para calcular la suma de 2 números enteros
+        //Funcion para calcular la suma de 2 numeros enteros
         static int Suma(int a, int b)
         {
             return a + b;
