@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Negocio;
+
 
 namespace Presentación
 {
@@ -15,6 +17,16 @@ namespace Presentación
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void dgDatos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            DataTable dt = new DataTable();
+            clsNegPerson np = new clsNegPerson();
+            dt = np.GetAll();
+
+            dgDatos.DataSource = dt;
+            dgDatos.Refresh();
         }
     }
 }
