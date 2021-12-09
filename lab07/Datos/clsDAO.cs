@@ -5,17 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 
-
 namespace Datos
 {
     public class clsDAO
     {
         public SqlConnection con;
 
-        public clsDAO()
-        {
-            string str = "Server=;DataBase=School;Integrated Security=true;";
+        public clsDAO() {
+            String str = "Server=DESKTOP-NJ5HU9F\\SQLEXPRESS;Database=School;Integrated Security=true";
             con = new SqlConnection(str);
         }
+        
     }
 }

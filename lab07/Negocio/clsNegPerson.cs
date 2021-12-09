@@ -10,11 +10,15 @@ namespace Negocio
 {
     public class clsNegPerson
     {
-        clsDAOPerson dAOPerson = new clsDAOPerson();
+        clsDAOPerson daoPerson = new clsDAOPerson();
 
-        public DataTable GetAll()
+        public DataTable GetAll() {
+            return daoPerson.GetAll();
+        }
+
+        public DataTable GetSearch(String busqueda)
         {
-            return dAOPerson.GetAll();
+            return daoPerson.GetSearch(busqueda);
         }
     }
 }
