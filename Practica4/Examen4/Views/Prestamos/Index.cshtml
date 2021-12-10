@@ -1,0 +1,57 @@
+﻿@model IEnumerable<practica4.Models.Prestamos>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Nuevo Prestamo", "Create")
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdPrestammo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IdLibro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IdUsuario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FecPrestamo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FecDevolucion)
+        </th>
+        <th>
+            Acciones
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdPrestammo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdLibro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUsuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FecPrestamo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FecDevolucion)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.IdPrestammo }) |
+                @Html.ActionLink("Borrar", "Delete", new { id = item.IdPrestammo })
+            </td>
+        </tr>
+    }
+</table>
+

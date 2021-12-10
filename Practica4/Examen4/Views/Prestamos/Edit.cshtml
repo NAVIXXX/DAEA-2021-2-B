@@ -1,0 +1,73 @@
+﻿@model practica4.Models.Prestamos
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Categories</legend>
+        <div class="row">
+            <div class="col-md-2">
+                <label>
+                    @Html.LabelFor(model => model.IdPrestammo)
+                </label>
+            </div>
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.IdPrestammo)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>
+                    @Html.LabelFor(model => model.IdLibro)
+                </label>
+            </div>
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.IdLibro)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>
+                    @Html.LabelFor(model => model.IdUsuario)
+                </label>
+            </div>
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.IdUsuario)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>
+                    @Html.LabelFor(model => model.FecPrestamo)
+                </label>
+            </div>
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.FecPrestamo)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>
+                    @Html.LabelFor(model => model.FecDevolucion)
+                </label>
+            </div>
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.FecDevolucion)
+            </div>
+        </div>
+
+        <p>
+            <input type="submit" value="Guardar Cambios" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Retornar a Index", "Index")
+</div>

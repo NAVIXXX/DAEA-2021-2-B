@@ -1,0 +1,80 @@
+﻿@model practica4.Models.Prestamos
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+        <fieldset>
+            <legend>Categories</legend>
+            <div class="row">
+                <div class="col-md-2">
+                    <label>
+                        @Html.LabelFor(model => model.IdPrestammo)
+                    </label>
+                </div>
+                <div class="col-md-5">
+                    @*Html.EditorFor(model=> model.IdPrestammo)*@
+                    @*Html.ValidationMessageFor(model=> model.IdPrestammo)*@
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label>
+                        @Html.LabelFor(model => model.IdLibro)
+                    </label>
+                </div>
+                <div class="col-md-5">
+                    @Html.TextBoxFor(model => model.IdLibro)
+                    @Html.ValidationMessageFor(model => model.IdLibro)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label>
+                        @Html.LabelFor(model => model.IdUsuario)
+                    </label>
+                </div>
+                <div class="col-md-5">
+                    @Html.TextBoxFor(model => model.IdUsuario)
+                    @Html.ValidationMessageFor(model => model.IdUsuario)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label>
+                        @Html.LabelFor(model => model.FecPrestamo)
+                    </label>
+                </div>
+                <div class="col-md-5">
+                    @Html.TextBoxFor(model => model.FecPrestamo)
+                    @Html.ValidationMessageFor(model => model.FecDevolucion)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label>
+                        @Html.LabelFor(model => model.FecDevolucion)
+                    </label>
+                </div>
+                <div class="col-md-5">
+                    @Html.TextBoxFor(model => model.FecDevolucion)
+                    @Html.ValidationMessageFor(model => model.FecDevolucion)
+                </div>
+            </div>
+
+            <p>
+                <input type="submit" value="Create" />
+            </p>
+        </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Retornar a Index", "Index")
+</div>
+
+

@@ -1,0 +1,164 @@
+D:\Practica4DAEA\Practica4\Examen4\bin\Examen4.dll.config
+D:\Practica4DAEA\Practica4\Examen4\bin\Examen4.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\Examen4.pdb
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\csc.exe
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\csc.exe.config
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\csc.rsp
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\csi.exe
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\csi.exe.config
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\csi.rsp
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.AppContext.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Collections.Immutable.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Console.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Globalization.Calendars.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.IO.Compression.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.IO.FileSystem.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Net.Http.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Net.Sockets.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.ValueTuple.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Xml.XPath.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\vbc.exe
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\vbc.exe.config
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\vbc.rsp
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\VBCSCompiler.exe
+D:\Practica4DAEA\Practica4\Examen4\bin\roslyn\VBCSCompiler.exe.config
+D:\Practica4DAEA\Practica4\Examen4\bin\EntityFramework.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\EntityFramework.SqlServer.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\Microsoft.Web.Infrastructure.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Helpers.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Mvc.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Razor.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Webpages.Deployment.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Webpages.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Webpages.Razor.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\EntityFramework.xml
+D:\Practica4DAEA\Practica4\Examen4\bin\EntityFramework.SqlServer.xml
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Razor.xml
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Webpages.xml
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Webpages.Deployment.xml
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Webpages.Razor.xml
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Helpers.xml
+D:\Practica4DAEA\Practica4\Examen4\bin\System.Web.Mvc.xml
+D:\Practica4DAEA\Practica4\Examen4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Practica4DAEA\Practica4\Examen4\bin\es\System.Web.Razor.resources.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\es\System.Web.Webpages.resources.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\es\System.Web.Helpers.resources.dll
+D:\Practica4DAEA\Practica4\Examen4\bin\es\System.Web.Mvc.resources.dll
+D:\Practica4DAEA\Practica4\Examen4\obj\Debug\Examen4.csproj.AssemblyReference.cache
+D:\Practica4DAEA\Practica4\Examen4\obj\Debug\Examen4.csproj.CoreCompileInputs.cache
+D:\Practica4DAEA\Practica4\Examen4\obj\Debug\Examen4.csproj.CopyComplete
+D:\Practica4DAEA\Practica4\Examen4\obj\Debug\Examen4.dll
+D:\Practica4DAEA\Practica4\Examen4\obj\Debug\Examen4.pdb
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\Examen4.dll.config
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\Examen4.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\Examen4.pdb
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\csc.exe
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\csc.exe.config
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\csc.rsp
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\csi.exe
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\csi.exe.config
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\csi.rsp
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.Managed.Core.targets
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.AppContext.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Collections.Immutable.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Console.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Globalization.Calendars.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.IO.Compression.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.IO.FileSystem.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Net.Http.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Net.Sockets.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Reflection.Metadata.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.ValueTuple.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Xml.XmlDocument.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Xml.XPath.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\vbc.exe
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\vbc.exe.config
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\vbc.rsp
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\VBCSCompiler.exe
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\roslyn\VBCSCompiler.exe.config
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\EntityFramework.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\EntityFramework.SqlServer.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\Microsoft.Web.Infrastructure.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Helpers.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Mvc.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Razor.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Webpages.Deployment.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Webpages.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Webpages.Razor.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\EntityFramework.xml
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\EntityFramework.SqlServer.xml
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Razor.xml
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Webpages.xml
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Webpages.Deployment.xml
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Webpages.Razor.xml
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Helpers.xml
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\System.Web.Mvc.xml
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\es\System.Web.Razor.resources.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\es\System.Web.Webpages.resources.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\es\System.Web.Helpers.resources.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\bin\es\System.Web.Mvc.resources.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\obj\Debug\Examen4.csproj.AssemblyReference.cache
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\obj\Debug\Examen4.csproj.CoreCompileInputs.cache
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\obj\Debug\Examen4.csproj.CopyComplete
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\obj\Debug\Examen4.dll
+E:\J\tecsup 6\DAEA\examen\Examen4DAEA\Practica4\Examen4\obj\Debug\Examen4.pdb
